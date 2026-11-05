@@ -1,0 +1,6 @@
+
+aiogram
+pydantic-settings
+sqlalchemy
+aiosqlite
+aiofiles
